@@ -1,4 +1,4 @@
-# Weather
+# Weather with BLoC state managment
 
 A feature driven weather application with [open meteo api](https://open-meteo.com/en)
 
