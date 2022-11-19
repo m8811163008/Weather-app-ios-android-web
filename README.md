@@ -19,13 +19,17 @@ flutter_weather
 ## Project Requirements
 Our app should let users
 * Search for a city on a dedicated search page
+
   ![search_city](assets/1.png)
 * See a pleasant depiction of the weather data returned by Open Meteo API
+
   A warm city                |  A cold city
   :-------------------------:|:-------------------------:
   ![a warm city](assets/3.png)   |  ![a cold city](assets/5.png)
 
 * Change the units displayed (metric vs imperial)
+
+
   ![setting_page](assets/6.png)
 
 Application state should persist across sessions: i.e., the app should remember its state after closing and reopening it (using HydratedBloc)
