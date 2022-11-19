@@ -1,0 +1,14 @@
+{
+"id": 6683528,
+"name": "Tehrān",
+"latitude": 35.75,
+"longitude": 51.5148,
+"elevation": 1375,
+"feature_code": "PPL",
+"country_code": "IR",
+"admin1_id": 110791,
+"timezone": "Asia/Tehran",
+"country_id": 130758,
+"country": "Iran",
+"admin1": "Tehran"
+}
