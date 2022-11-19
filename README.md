@@ -24,6 +24,7 @@ Our app should let users
   A warm city                |  A cold city
   :-------------------------:|:-------------------------:
   ![a warm city](assets/3.png)   |  ![a cold city](assets/5.png)
+
 * Change the units displayed (metric vs imperial)
   ![setting_page](assets/6.png)
 
@@ -35,7 +36,11 @@ Application state should persist across sessions: i.e., the app should remember 
 * Business Logic: manage the state of each feature (unit information, city details, themes, etc.)
 * Presentation: display weather information and collect input from users (settings page, search page etc.)
 ## Additional Screenshots
+A warm city                |  A cold city
+  :-------------------------:|:-------------------------:
 ![loading_screen](assets/2.png)   |  ![a cold city](assets/4.png)
+
+
 
 ## Getting Started
 
